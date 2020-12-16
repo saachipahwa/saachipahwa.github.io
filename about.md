@@ -4,6 +4,12 @@ title: About
 permalink: /about/
 ---
 
-### Project Summary
+Some information about you!
 
-Version 2 of the NHS CarerCare app system with app dashboard, full front-end, responsive design, robust test planning and other app features.
+### More Information
+
+A place to include any other types of information that you'd like to include about yourself.
+
+### Contact me
+
+[email@domain.com](mailto:email@domain.com)
