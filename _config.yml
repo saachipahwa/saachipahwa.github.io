@@ -8,7 +8,7 @@ name: COMP0016 Team 26
 # Short bio or description (displayed in the header)
 description: Development blog for our project.
 
-theme: jekyll-theme-minimal
+# NOTE: base theme seems to be fixed
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
